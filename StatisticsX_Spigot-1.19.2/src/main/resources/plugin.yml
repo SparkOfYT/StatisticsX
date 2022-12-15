@@ -1,0 +1,5 @@
+name: StatisticsX
+version: '${project.version}'
+main: de.sparkofyt.statisticsx.StatisticsX
+api-version: 1.19
+author: SparkOfYT
